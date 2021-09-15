@@ -1,4 +1,3 @@
 # Resume
 Curriculum Vitae
-
-[Resume](https://zhoudexi.github.io/Resume/)
+[简历](https://zhoudexi.github.io/Resume/)
